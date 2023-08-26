@@ -137,7 +137,7 @@ function Keypad({ updateCalc, clear, calculate, del }) {
         className="operator"
         value="X"
         onClick={() => {
-          updateCalc("X");
+          updateCalc("*");
         }}
       >
         X

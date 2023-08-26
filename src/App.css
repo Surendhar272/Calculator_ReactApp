@@ -71,13 +71,14 @@ header{
 }
 .theme-value {
   border-radius: 15px;
-  padding: 1px;
+  padding: 2px;
   width: 60px;
   max-width: 100%;
 }
 
 .theme-btn{
   margin: 2px;
+  padding: auto;
 }
 
 .theme-btn .active {
